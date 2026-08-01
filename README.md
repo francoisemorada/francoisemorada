@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **hotel booking site using Blazor as a project**  
-🌱 &nbsp;I'm currently learning **full- stack web development with C#/.NET**  
+🌱 &nbsp;I'm currently learning **full-stack web development with C#/.NET**  
 😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
